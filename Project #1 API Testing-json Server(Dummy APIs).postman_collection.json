@@ -1,0 +1,130 @@
+{
+	"info": {
+		"_postman_id": "70c684f1-df7a-4312-8e62-4b057ee0b9ca",
+		"name": "Project #1 API Testing-json Server(Dummy APIs)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41720263"
+	},
+	"item": [
+		{
+			"name": "GET Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Request",
+			"request": {
+				"method": "HEAD",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Request",
+			"request": {
+				"method": "HEAD",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PATCH Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://Yasirs-MacBook-Air.local:3000/posts",
+					"protocol": "http",
+					"host": [
+						"Yasirs-MacBook-Air",
+						"local"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
